@@ -8,7 +8,7 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read SMRT sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
-- group: Colleagues / Collaborators / Part timers
+- group: Colleagues / Collaborators
   members:
     - name: James WEISFELD-ADAMS, MB, ChB
       picture: jamesweisfeldadams_bw.jpeg
@@ -26,10 +26,6 @@
       picture: hetanshinaik.jpg
       bio: |
          Hetanshi NAIK completed her M.S. in Genetic Counseling in 2010 and her Ph.D. in Clinical Research in 2018, both at the Icahn School of Medicine at Mount Sinai. She currently is a Project Manager and Genetic Counselor in [**Dr. Robert J. DESNICK’s laboratory**](http://www.mountsinai.org/profiles/robert-j-desnick) where she oversees the NIH-supported Rare Diseases Clinical Research Network’s Porphyrias Consortium. In addition, Dr. NAIK is directly involved in educational and clinical pharmacogenomics projects with the SCOTT LAB.
-    - name: Noura ABUL-HUSN, MD, PhD
-      picture: nouraabulhusn2_bw.jpg
-      bio: |
-         Noura ABUL-HUSN is an Associate Director of Translational Genetics at the Regeneron Genetics Center, and an Adjunct Assistant Professor in Medicine and Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai.  [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) is using large-scale sequencing data to identify clinically relevant disease-gene associations and advance genetics-driven drug discovery.  The SCOTT LAB collaborates directly with [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) on pharmacogenomics discovery and genomic medicine implementation projects.
 - group: Laboratory ALUMNI
   members:
     - name: Shahad RAHAWI, BS
