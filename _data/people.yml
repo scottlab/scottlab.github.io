@@ -8,6 +8,10 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read SMRT sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
+    - name: Callan RUSSELL, BS
+      picture: 
+      bio: |
+         Callan RUSSELL is a second year Masters of Science (M.S.) in Genetic Counseling student in the Department of Genetics at Stanford University. Callan’s interest in pharmacogenomics and genomic medicine implementation prompted her thesis project with the SCOTT LAB and Stanford Cardiology, entitled ‘Knowledge and Attitudes on Implementing Cardiovascular Pharmacogenomic Testing’.
 - group: Colleagues and Collaborators
   members:
     - name: James WEISFELD-ADAMS, MB, ChB
