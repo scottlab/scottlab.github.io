@@ -31,7 +31,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #4298B5;
 }
 
 h1,
@@ -401,7 +401,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: rgb(26, 36, 47);
+    background-color: #8C1515;
 }
 
 footer .footer-col {
@@ -410,7 +410,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: rgb(26, 36, 47);
+    background-color: #8C1515;
 }
 
 .btn-social {
@@ -521,7 +521,7 @@ footer .footer-below {
     font-size: 16px !important;
     color:#fff !important;
     opacity: 1 !important;
-    background: rgb(58,157,235) !important;
+    background: #8C1515 !important;
     border-radius: 0 !important;
     font-family: Sintony, sans-serif !important;
     font-size: 15px !important;
@@ -529,9 +529,13 @@ footer .footer-below {
 }
 .swiper-pagination-bullet-active {
     color:#fff !important;
-    background: #1a242f !important;
+    background: #2E2D29 !important;
 }
 
 .swiper-container {
     transition: height .5s;
+}
+
+.footer-link {
+    color:#fff !important;
 }
