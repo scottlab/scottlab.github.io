@@ -26,14 +26,6 @@
       picture: 
       bio: |
          [**Teri KLEIN**](https://profiles.stanford.edu/teri-klein) is a Professor in the Departments of Biomedical Data Science and Medicine (BMIR) at Stanford University and Principal Investigator of [**PharmGKB**](https://www.pharmgkb.org/), [**CPIC**](https://cpicpgx.org/), [**PharmCAT**](https://pharmcat.org/) and [**ClinGen**](https://clinicalgenome.org/about/organizations/stanford-university/). She is internationally recognized for her work in pharmacogenomics, personalized medicine, computational biology and bioinformatics, and her research focus is currently centered on the development of [**PharmGKB**](https://www.pharmgkb.org/), clinical pharmacogenomic dosing guidelines, clinical genomics and the annotation of the human genome, and the structural basis of disease. She has graciously been a friend and mentor to the SCOTT LAB for ~10 years, with no end in the foreseeable future.
-    - name: Mariana R. BOTTON, PhD
-      picture: marianabotton_bw2.jpg
-      bio: |
-         Mariana R. BOTTON is a postdoctoral fellow at the Hospital de Clínicas de Porto Alegre - Universidade Federal do Rio Grande do Sul, in Porto Alegre, Brazil, with undergraduate and graduate degrees in Pharmacy, and Genetics and Molecular Biology, respectively. Dr. BOTTON's research focus is studying pharmacogenomic variation in diverse populations, and while pursuing a two-year pharmacogenomics fellowship at Mount Sinai and [**Sema4**](http://www.sema4.com), she led the development of several PacBio long-read SMRT sequencing assays and studied [**pharmacogenomic structural variation**](https://pubmed.ncbi.nlm.nih.gov/31260137/).
-    - name: Dagmar F. HERNANDEZ-SUAREZ, MD, MS
-      picture: dagmarsuarez.jpg
-      bio: |
-         Dagmar F. HERNANDEZ-SUAREZ, M.D. is an Internal Medicine Resident at the University of Puerto Rico (UPR) School of Medicine, San Juan, Puerto Rico.  Dr. HERNANDEZ-SUAREZ recently completed a postdoctoral Master's in Clinical and Translational Science (NIHR25MD007607), which was recognized with a CRECD Scholar Research Award for Phase I.  His research is mentored by [**Dr. Jorge DUCONGE**](http://farmacia.rcm.upr.edu/wp-content/uploads/sites/15/2016/09/Profile_Jorge_Duconge.pdf) at the UPR, and is aimed at determining the clinical and genetic determinants of clopidogrel responsiveness in Caribbean Hispanics.  The SCOTT LAB is fortunate to collaborate with Drs. DUCONGE and HERNANDEZ-SUAREZ on antiplatelet pharmacogenetics while Dr. HERNANDEZ-SUAREZ pursues his career in academic cardiology.
 - group: Laboratory ALUMNI
   members:
     - name: Lanna CERA, BS
@@ -44,7 +36,7 @@
       picture: 
       bio: |
          Meghan BARTOS was a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai. Meghan's interest in secondary findings prompted her thesis project with the SCOTT LAB, entitled 'Attitudes Toward Pharmacogenomics as a Secondary Finding'.
-    - name: Elizabeth LOUDON, BS
+         - name: Elizabeth LOUDON, BS
       picture: 
       bio: |
          Elizabeth LOUDON was a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai. Elizabeth's interest in genetic counseling education prompted her thesis project with the SCOTT LAB, entitled [**'Pharmacogenetics Education among Genetic Counseling Training Programs'**](https://pubmed.ncbi.nlm.nih.gov/33882174/).
@@ -52,7 +44,14 @@
       picture: 
       bio: |
          Christina LaMAIRE was a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai. Christina's interest in psychiatric genomics prompted her thesis project with the SCOTT LAB, entitled 'Perceptions of Psychiatric Pharmacogenetic Clinical Trials among Patients with Depression and Psychiatrists'.
-    - name: Shahad RAHAWI, BS
+    - name: Mariana R. BOTTON, PhD
+      picture: marianabotton_bw2.jpg
+      bio: |
+         Mariana R. BOTTON is a postdoctoral fellow at the Hospital de Clínicas de Porto Alegre - Universidade Federal do Rio Grande do Sul, in Porto Alegre, Brazil, with undergraduate and graduate degrees in Pharmacy, and Genetics and Molecular Biology, respectively. Dr. BOTTON's research focus is studying pharmacogenomic variation in diverse populations, and while pursuing a two-year pharmacogenomics fellowship at Mount Sinai and [**Sema4**](http://www.sema4.com), she led the development of several PacBio long-read SMRT sequencing assays and studied [**pharmacogenomic structural variation**](https://pubmed.ncbi.nlm.nih.gov/31260137/).
+    - name: Dagmar F. HERNANDEZ-SUAREZ, MD, MS
+      picture: dagmarsuarez.jpg
+      bio: |
+         Dagmar F. HERNANDEZ-SUAREZ, M.D. was an Internal Medicine Resident at the University of Puerto Rico (UPR) School of Medicine, San Juan, Puerto Rico.  His research was mentored by [**Dr. Jorge DUCONGE**](http://farmacia.rcm.upr.edu/wp-content/uploads/sites/15/2016/09/Profile_Jorge_Duconge.pdf) at the UPR, and was aimed at determining the clinical and genetic determinants of clopidogrel responsiveness in Caribbean Hispanics.  The SCOTT LAB was fortunate to collaborate with Dr. HERNANDEZ-SUAREZ as a visting scholar at Mount Sinai on antiplatelet pharmacogenetics, as he is now pursuing his career in academic clinical cardiology.        - name: Shahad RAHAWI, BS
       picture: shahadrahawibw3.jpg
       bio: |
          Shahad RAHAWI was a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Shahad's interest in genomics education prompted her thesis project with the SCOTT LAB, which was aimed at assessing [**pediatrician knowledge and attitudes on pharmacogenomics**](https://pubmed.ncbi.nlm.nih.gov/31983733/) in an effort to better inform how to design clinician education tools.
