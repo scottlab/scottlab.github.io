@@ -8,10 +8,6 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404) and [**_CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) long-read methods using PacBio SMRT sequencing.  In addition to other collaborative research projects on epigenomics and pharmacogenomics, Dr. YANG is [**ABMGG**](http://www.abmgg.org/)-certified in Clinical Molecular Genetics and Genomics and is developing novel variant calling pipelines for long-read sequencing.  Dr. YANG is currently a Co-Director of the Stanford Medicine Clinical Genomics Laboratory and Clinical Assistant Professor in the Department of Pathology at Stanford University.
-    - name: Callan RUSSELL, BS
-      picture:
-      bio: |
-         [**Callan RUSSELL**](https://knight-hennessy.stanford.edu/program/scholars/2020/callan-russell) is a second year Masters of Science (M.S.) in Genetic Counseling student in the [**Department of Genetics**](https://med.stanford.edu/genetics/education/masters-in-genetic-counseling.html) at Stanford University.  Callan’s interest in pharmacogenomics and genomic medicine implementation prompted her thesis project with the SCOTT LAB and Stanford Cardiology, entitled ‘Knowledge and Attitudes on Implementing Cardiovascular Pharmacogenomic Testing’.
     - name: Kendall SCHMIDT, BS
       picture:
       bio: |
@@ -38,6 +34,10 @@
          [**Dena MATALON**](https://profiles.stanford.edu/dena-matalon) is a Clinical Assistant Professor in the Department of Pediatrics and Division of Medical Genetics at Stanford.  She is Board certified in pediatrics and clinical genetics, and her research interests include studying genetic causes of pediatric diseases.  She is a Co-Investigator of the [**GREGoR Stanford Site**](https://gregor.stanford.edu/), and the SCOTT LAB collaborates with **Dr. MATALON** through their [**MCHRI/Undiagnosed Disease Network (UDN)**](https://med.stanford.edu/mchri/awards/udn.html) pilot project entitled **Long-Read Genome Sequencing to Increase Diagnostic Yield in Pediatric Genetic Diseases**.
 - group: Laboratory Alumni
   members:
+       - name: Callan RUSSELL, BS
+      picture:
+      bio: |
+         [**Callan RUSSELL**](https://knight-hennessy.stanford.edu/program/scholars/2020/callan-russell) was a second year Masters of Science (M.S.) in Genetic Counseling student in the [**Department of Genetics**](https://med.stanford.edu/genetics/education/masters-in-genetic-counseling.html) at Stanford University.  Callan’s interest in pharmacogenomics and genomic medicine implementation prompted her thesis project with the SCOTT LAB and Stanford Cardiology, entitled ‘Knowledge and Attitudes on Implementing Cardiovascular Pharmacogenomic Testing’.
     - name: Lanna CERA, MS
       bio: |
          Lanna CERA was a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Lanna's interest in genetic test reporting prompted her thesis project with the SCOTT LAB and collaborators at Nemours Children's Health, entitled 'Provider Preferences on Clinical Pharmacogenomic Reporting'.
