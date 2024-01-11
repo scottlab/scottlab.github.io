@@ -16,18 +16,20 @@
                 </div>
             </div>
             {% for topic in site.data.research.topics %}
+                {% if topic.topic %}
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
                         <h2>{{topic.topic}}</h2>
                         <br>
                     </div>
                 </div>
+                {% endif %}
                 <div class="row">
                     {% if topic.picture %}
                     <div class="col-lg-2 col-lg-push-9 col-sm-3 col-sm-push-9 col-xs-6">
                         <span style="width:100%; height: auto">
                           {% if topic.link %}
-                          <a href="{{topic.link}}">
+                          <a href="{{topic.link}}" target="_blank">
                             <img src="./img/research/{{topic.picture}}" style="width:100%; height: auto">
                           </a>
                           {% else %}
