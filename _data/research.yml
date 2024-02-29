@@ -17,7 +17,7 @@ topics:
   - picture: research_AMP2023Presentation.png
     link: ./img/pdfs/AMP_CYP2C19-SS11152023.pdf 
     summary: |
-      In addition to developing a novel [long-read HiFi sequencing pharmacogenomics panel](https://www.pacb.com/wp-content/uploads/2023-03_PGx_Poster_Hybrid-Capture_FINAL.pdf), translational research on antiplatelet response variability has been an ongoing area of focus for the SCOTT LAB, including implementing _CYP2C19_ genotyping for medication management. Previous work employed extreme phenotype exome sequencing to identify a [novel gene association with clopidogrel response](https://pubmed.ncbi.nlm.nih.gov/27213804/), and current implementation efforts are leveraging [rapid turnaround time _CYP2C19_ genotyping](./img/pdfs/AMP_CYP2C19-SS11152023.pdf) to guide antiplatelet therapy decisions at the point-of-care. 
+      In addition to developing a novel [long-read HiFi sequencing pharmacogenomics panel](https://www.pacb.com/wp-content/uploads/2023-03_PGx_Poster_Hybrid-Capture_FINAL.pdf), translational research on antiplatelet response variability has been an ongoing area of focus for the SCOTT LAB, including implementing _CYP2C19_ genotyping for medication management. Previous research employed extreme phenotype exome sequencing to identify a [novel gene association with clopidogrel response](https://pubmed.ncbi.nlm.nih.gov/27213804/), and current implementation efforts are leveraging [rapid turnaround time _CYP2C19_ genotyping](./img/pdfs/AMP_CYP2C19-SS11152023.pdf) to guide antiplatelet therapy decisions at the point-of-care. 
   - topic: CLINICAL LABORATORY GENETICS and GENOMICS
     picture: research_clinicalgenetics.png
     link: http://www.ncbi.nlm.nih.gov/pubmed/20672374
