@@ -14,10 +14,10 @@ topics:
     link: http://www.ncbi.nlm.nih.gov/pubmed/22095251
     summary: |
       Translating pharmacogenomic discovery to clinical implementation is an ongoing interest in the laboratory. We are members of the [Clinical Pharmacogenetics Implementation Consortium (CPIC)](https://www.cpicpgx.org), participating in authoring guidelines for pharmacogenetic-based drug therapy and other related initiatives. Dr. SCOTT was a Co-Investigator of the [Institute for Personalized Medicine's (IPM)-PGx and eMERGE-PGx programs](http://icahn.mssm.edu/research/institutes/ipm/programs/translational-initiatives-for-pharmacogenomics-tip) by providing support in clinical genetics and implementing clinical pharmacogenomic testing at Mount Sinai. Current implementation efforts at Stanford are centered on partnering with [PharmGKB](https://www.pharmgkb.org/), the [Stanford Medicine Catalyst Program](https://smcatalyst.stanford.edu/), and clincial colleagues to develop and launch an innovative clinical pharmacogenomic program across Stanford Health Care. 
-  - picture: research_clinicalgenetics.png
+  - picture: research_AMP2023Presentation.png
     link: ./img/pdfs/AMP_CYP2C19-SS11152023.pdf 
     summary: |
-      In addition to developing a novel long-read sequencing pharmacogenomics panel, translational research on antiplatelet pharmacogenomics has been an ongoing area of focus for the SCOTT LAB, including implementing CYP2C19 genotyping for medication management. Previous work employed extreme phenotype exome sequencing to identify a [novel gene association with clopidogrel response](https://pubmed.ncbi.nlm.nih.gov/27213804/), and current implementation efforts are leveraging rapid turnaround time genotyping to guide antiplatelet therapy decisions at the point of care. 
+      In addition to developing a novel long-read HiFi sequencing pharmacogenomics panel, translational research on antiplatelet pharmacogenomics has been an ongoing area of focus for the SCOTT LAB, including implementing _CYP2C19_ genotyping for medication management. Previous work employed extreme phenotype exome sequencing to identify a [novel gene association with clopidogrel response](https://pubmed.ncbi.nlm.nih.gov/27213804/), and current implementation efforts are leveraging rapid turnaround time genotyping to guide antiplatelet therapy decisions at the point of care. 
   - topic: CLINICAL LABORATORY GENETICS and GENOMICS
     picture: research_clinicalgenetics.png
     link: http://www.ncbi.nlm.nih.gov/pubmed/20672374
