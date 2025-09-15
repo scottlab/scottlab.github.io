@@ -16,10 +16,6 @@
       picture: oumniachellah3.jpg
       bio: |
          [**Oumnia CHELLAH**](https://profiles.stanford.edu/oumnia-chellah) is a second year Master’s of Science (M.S.) student in Computer Science at Stanford University. Oumnia’s research project with the SCOTT LAB is centered on evaluating currently available repeat expansion callers and developing a novel bioinformatic solution to accurately interrogate germline expansions across multiple genome sequencing platforms.
-    - name: Mattie MONROE, BA
-      picture:
-      bio: |
-         [**Mattie MONROE**](https://med.stanford.edu/genetics/people/genetic-counseling-students.html) is a second year Masters of Science (M.S.) in Genetic Counseling student in the [**Department of Genetics**](https://med.stanford.edu/genetics/education/masters-in-genetic-counseling.html) at Stanford University.  Mattie's interest in pharmacogenomics and previous experience working in substance use research prompted her thesis project with the SCOTT LAB, entitled ‘Knowledge and Attitudes on Germline Pharmacogenomics among Oncologists’.
 - group: Colleagues and Collaborators
   members:
     - name: James WEISFELD-ADAMS, MB, ChB
@@ -42,6 +38,10 @@
          [**Dena MATALON**](https://profiles.stanford.edu/dena-matalon) is a Clinical Associate Professor in the Department of Pediatrics and Division of Medical Genetics at Stanford.  She is Board certified in pediatrics and clinical genetics, and her research interests include studying genetic causes of pediatric diseases.  She is a Co-Investigator of the [**GREGoR Stanford Site**](https://gregor.stanford.edu/), and the SCOTT LAB collaborates with **Dr. MATALON** through their [**MCHRI/Undiagnosed Disease Network (UDN)**](https://med.stanford.edu/mchri/awards/udn.html) pilot project entitled **Long-Read Genome Sequencing to Increase Diagnostic Yield in Pediatric Genetic Diseases**.
 - group: Laboratory Alumni
   members:
+    - name: Mattie MONROE, BA
+      picture:
+      bio: |
+         [**Mattie MONROE**](https://med.stanford.edu/genetics/people/genetic-counseling-students.html) was a second year Masters of Science (M.S.) in Genetic Counseling student in the [**Department of Genetics**](https://med.stanford.edu/genetics/education/masters-in-genetic-counseling.html) at Stanford University.  Mattie's interest in pharmacogenomics and previous experience working in substance use research prompted her thesis project with the SCOTT LAB, entitled ‘Knowledge and Attitudes on Germline Pharmacogenomics among Oncologists’.
     - name: Kendall SCHMIDT, MS
       picture:
       bio: |
